@@ -1,0 +1,15 @@
+C:\Users\фвьшт\Desktop\Exam\Exam_001_HelloW\bin\Debug\net6.0\Exam_001_HelloW.exe
+C:\Users\фвьшт\Desktop\Exam\Exam_001_HelloW\bin\Debug\net6.0\Exam_001_HelloW.deps.json
+C:\Users\фвьшт\Desktop\Exam\Exam_001_HelloW\bin\Debug\net6.0\Exam_001_HelloW.runtimeconfig.json
+C:\Users\фвьшт\Desktop\Exam\Exam_001_HelloW\bin\Debug\net6.0\Exam_001_HelloW.dll
+C:\Users\фвьшт\Desktop\Exam\Exam_001_HelloW\bin\Debug\net6.0\Exam_001_HelloW.pdb
+C:\Users\фвьшт\Desktop\Exam\Exam_001_HelloW\obj\Debug\net6.0\Exam_001_HelloW.csproj.AssemblyReference.cache
+C:\Users\фвьшт\Desktop\Exam\Exam_001_HelloW\obj\Debug\net6.0\Exam_001_HelloW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\фвьшт\Desktop\Exam\Exam_001_HelloW\obj\Debug\net6.0\Exam_001_HelloW.AssemblyInfoInputs.cache
+C:\Users\фвьшт\Desktop\Exam\Exam_001_HelloW\obj\Debug\net6.0\Exam_001_HelloW.AssemblyInfo.cs
+C:\Users\фвьшт\Desktop\Exam\Exam_001_HelloW\obj\Debug\net6.0\Exam_001_HelloW.csproj.CoreCompileInputs.cache
+C:\Users\фвьшт\Desktop\Exam\Exam_001_HelloW\obj\Debug\net6.0\Exam_001_HelloW.dll
+C:\Users\фвьшт\Desktop\Exam\Exam_001_HelloW\obj\Debug\net6.0\refint\Exam_001_HelloW.dll
+C:\Users\фвьшт\Desktop\Exam\Exam_001_HelloW\obj\Debug\net6.0\Exam_001_HelloW.pdb
+C:\Users\фвьшт\Desktop\Exam\Exam_001_HelloW\obj\Debug\net6.0\Exam_001_HelloW.genruntimeconfig.cache
+C:\Users\фвьшт\Desktop\Exam\Exam_001_HelloW\obj\Debug\net6.0\ref\Exam_001_HelloW.dll
